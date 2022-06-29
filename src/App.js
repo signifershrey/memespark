@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+import React ,{ useEffect, useState } from "react";
+// import react from 'react';
 import { Route, Switch } from "react-router-dom";
 import "./App.css";
 import Template from "./components/Template";
